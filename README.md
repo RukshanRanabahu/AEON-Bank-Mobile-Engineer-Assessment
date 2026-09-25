@@ -19,9 +19,9 @@ Built as part of the **AEON Bank Mobile Engineer Assessment** using React Native
 
 ## Tech Stack
 
-* React Native `0.82.1`
-* React `19.1.1`
-* TypeScript `5.8.3`
+* React Native `0.87.1`
+* React `19.2.3`
+* TypeScript `6.0.3`
 * Zustand `5.0.15`
 * React Navigation `7`
 * React Native `Share` API
@@ -77,7 +77,7 @@ Make sure the development environment is configured for React Native.
 
 Required tools include:
 
-* Node.js `20` or later
+* Node.js >= 22.11.0
 * npm
 * Android Studio for Android development
 * Android SDK
@@ -89,8 +89,8 @@ Required tools include:
 Clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/RukshanRanabahu/aeon-bank-mobile-assessment.git
-cd aeon-bank-mobile-assessment
+git clone https://github.com/RukshanRanabahu/AEON-Bank-Mobile-Engineer-Assessment.git
+cd AEON-bank-mobile-assessment
 npm install
 ```
 
